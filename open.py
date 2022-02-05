@@ -1,0 +1,1 @@
+open('nn.txt', 'w')
